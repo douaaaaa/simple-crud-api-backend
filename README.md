@@ -41,7 +41,7 @@ Create a .env file in the root of the project and add MongoDB Atlas connection s
   PORT=3000
 ```
 
-Replace <username>, <password>, and yourdatabase with your MongoDB Atlas credentials and the name of your database. You can find these details in the MongoDB Atlas dashboard.
+Replace username, password, and yourdatabase with your MongoDB Atlas credentials and the name of your database. You can find these details in the MongoDB Atlas dashboard.
 
 ## Usage
 
